@@ -1,0 +1,5 @@
+id;numero1;numero2;resultado esperado;tipo_teste
+1;30;5;35;negativo
+2;24;3;27;negativo
+3;10;-5;5;negativo
+4;-7;0;-7;negativo
